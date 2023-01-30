@@ -1,3 +1,4 @@
-.header__link_underline {
+a:active {
   text-decoration: underline;
+  color: blue;
 }

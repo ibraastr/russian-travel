@@ -1,6 +1,6 @@
 .lead__image-container {
   max-width: 984px;
-	margin: 0 auto;
+  margin: 0 auto;
 }
 
 @media (max-width: 1024px) {

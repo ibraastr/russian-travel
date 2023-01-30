@@ -6,21 +6,3 @@
   line-height: 18px;
   list-style: none;
 }
-
-@media (max-width: 1024px) {
-  .description__facts {
-    font-weight: 400;
-  }
-}
-
-@media (max-width: 768px) {
-  .description__facts {
-    font-weight: 700;
-  }
-}
-
-@media (max-width: 320px) {
-  .description__facts {
-    font-weight: 400;
-  }
-}

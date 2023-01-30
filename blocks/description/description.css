@@ -3,13 +3,13 @@
   margin: 0 auto 92px;
 }
 
-@media (max-width: 983px) {
+@media (max-width: 768px) {
   .description {
     margin-bottom: 88px;
   }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 320px) {
   .description {
     margin-bottom: 64px;
   }

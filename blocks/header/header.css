@@ -6,7 +6,13 @@
   margin: 0 auto 56px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1279px) {
+  .header {
+    margin-bottom: 48px;
+  }
+}
+
+@media (max-width: 320px) {
   .header {
     padding-top: 16px;
   }
