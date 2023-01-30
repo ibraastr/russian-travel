@@ -2,16 +2,12 @@
   margin-right: 18px;
 }
 
-.footer__item:last-child {
-  margin-right: 0;
-}
-
 @media (max-width: 767px) {
   .footer__item {
     margin-bottom: 32px;
   }
-}
 
-.footer__item:last-child {
-  margin-bottom: 48px;
+  .footer__item:last-child {
+    margin-bottom: 48px;
+  }
 }
