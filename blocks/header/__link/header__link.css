@@ -6,7 +6,7 @@
   text-decoration: none;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 320px) {
   .header__link {
     font-size: 18px;
     line-height: 20px;
